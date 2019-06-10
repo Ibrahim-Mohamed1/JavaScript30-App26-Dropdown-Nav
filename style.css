@@ -3,3 +3,7 @@ html {
     font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
   }
   
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
