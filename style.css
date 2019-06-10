@@ -69,3 +69,7 @@ html {
     display: block;
   }
 
+  .trigger-enter-active .dropdown {
+    opacity: 1;
+  }
+  
