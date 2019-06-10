@@ -135,22 +135,3 @@ html {
     color: white;
     margin-bottom: 10px;
   }
-  .span{
-    font-size: 30px;
-    margin-left: 10px;
-    color: white;
-}
-a{
-    text-decoration-color: white;
-    margin-top: 0%;
-}
-@media(pointer: none), (pointer: coarse) {
-    .span{
-      font-size: 50px;
-    }
-  }
-
-  /* Matches Twitter, TWITTER, twitter, tWitter, TWiTTeR... */
-  .button[href*=twitter] { background: #019FE9; }
-  .button[href*=facebook] { background: #3B5998; }
-  .button[href*=courses] { background: #ffc600; }
