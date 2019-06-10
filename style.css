@@ -64,3 +64,8 @@ html {
     will-change: opacity;
     display: none;
   }
+
+  .trigger-enter .dropdown {
+    display: block;
+  }
+
