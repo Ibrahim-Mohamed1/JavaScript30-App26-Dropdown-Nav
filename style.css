@@ -87,3 +87,7 @@ html {
     opacity: 0;
   }
 
+  .dropdownBackground.open {
+    opacity: 1;
+  }
+
