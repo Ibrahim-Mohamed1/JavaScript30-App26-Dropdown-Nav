@@ -28,3 +28,5 @@ function handleLeave() {
     background.classList.remove('open');
 }
 
+triggers.forEach(trigger => trigger.addEventListener('mouseenter', handleEnter));
+triggers.forEach(trigger => trigger.addEventListener('mouseleave', handleLeave));
