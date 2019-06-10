@@ -21,3 +21,9 @@ html {
     margin-top: 0;
     padding-top: .8em;
   }
+
+  nav {
+    position: relative;
+    perspective: 600px;
+  }
+
